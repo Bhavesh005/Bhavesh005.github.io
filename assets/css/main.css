@@ -2182,8 +2182,7 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background: -webkit-linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("../../images/banner.jpg") no-repeat center center;
 			}
 
 			#main > section.two {
