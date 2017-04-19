@@ -62,7 +62,7 @@
 .move {
     position: fixed;
     top: 0px;
-    left: 0px;
+    left: 300px;
     bottom: 0px;
     right: 0px;
     opacity: 0.5;
@@ -2568,3 +2568,11 @@
 				}
 
 	}
+
+
+
+#portfolio,
+#about,
+#contact {
+	position: relative;
+}
